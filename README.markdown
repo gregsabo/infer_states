@@ -1,11 +1,11 @@
-Determine States for Stripe Charges
-=====================
-
 Disclaimer
 --------
 
 This script is to be used for informative purposes only. I highly
 recommend consulting an accountant when preparing your taxes.
+
+Determine States for Stripe Charges
+=====================
 
 This Python script will write an annotated CSV of all charges from
 a Stripe account. You will need an Internet connection and all of
