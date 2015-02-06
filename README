@@ -29,3 +29,8 @@ Usage
 A small percentage of charges will not match for customers who input address data incorrectly.
 Most of these can be determined by hand by looking up the charge ID on Stripe dashboard.
 
+Possible Modifications
+-----------
+
+It should be fairly easy to edit this script to take a CSV export as a data source, or
+to use a local map of zipcodes instead of the Ziptastic API.
